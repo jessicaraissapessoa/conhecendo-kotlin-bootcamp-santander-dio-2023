@@ -14,6 +14,7 @@ fun main() {
         print("$c ")
     }
 
+    println(" ")
 
     //Range em if
 
@@ -24,7 +25,9 @@ fun main() {
         print("$x está entre 1 a 5 inclusive")
     }
 
-        //Se x não estiver no intervalo de 6 a 10 inclusive
+    println(" ")
+
+    //Se x não estiver no intervalo de 6 a 10 inclusive
     if (x !in 6..10) { // !in -> não é/está
         print("$x não está entre 6 a 10 inclusive")
     }
