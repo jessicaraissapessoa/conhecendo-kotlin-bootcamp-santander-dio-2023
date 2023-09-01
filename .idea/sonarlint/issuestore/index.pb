@@ -3,3 +3,17 @@ y
 Isrc/main/kotlin/controleDeFluxoEColecoes/controleDeFluxo/whenStatement.kt,3\9\390e39011f5771d056a8c218610dfafdb4e539ad
 z
 Jsrc/main/kotlin/controleDeFluxoEColecoes/controleDeFluxo/whenExpression.kt,0\3\03ae33081e59662073a94a5fd00aada383f5bbbe
+~
+Nsrc/main/kotlin/controleDeFluxoEColecoes/controleDeFluxo/loopsWhileEDoWhile.kt,d\b\db8950c0e2e09c0df582dcb8abefe905a04a5243
+z
+Jsrc/main/kotlin/controleDeFluxoEColecoes/controleDeFluxo/loopsIterators.kt,1\6\16a1f7567138346bdb023d966a22995c1e97b574
+t
+Dsrc/main/kotlin/controleDeFluxoEColecoes/controleDeFluxo/loopsFor.kt,f\2\f25fabc5a3bd68e8d1cd41c8ead2b123cb4e065b
+‚
+Rsrc/main/kotlin/controleDeFluxoEColecoes/controleDeFluxo/rangesIfsELoopsComChar.kt,0\7\07d7df00408457070bc4ff7617a5b50eed8e5e2c
+ƒ
+Ssrc/main/kotlin/controleDeFluxoEColecoes/controleDeFluxo/verificacoesDeIgualdade.kt,e\e\eede1d1a9d34d0442084fb39e9adaa3ea7e8006f
+}
+Msrc/main/kotlin/controleDeFluxoEColecoes/controleDeFluxo/rangesLoopsComInt.kt,5\2\523c69c57030495c8ee5a6831b9ca075a761de1f
+€
+Psrc/main/kotlin/controleDeFluxoEColecoes/controleDeFluxo/expressaoCondicional.kt,9\7\971268d40afc7e9b71033b93243bb8a9e9c6ea49
