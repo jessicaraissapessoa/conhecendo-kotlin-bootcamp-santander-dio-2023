@@ -6,7 +6,7 @@
 # Tecnologias utilizadas
 
 * **Linguagem:** Kotlin
-* **Versionamento:** Git/GitHuub
+* **Versionamento:** Git/GitHub
 * **IDE:** Intellij IDEA Ultimate 
 
 <br>
