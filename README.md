@@ -90,15 +90,15 @@ Pasta no repositório: [src/main/kotlin/orientacaoAObjetosETiposDeClasses](https
 <br>
 
 ### Curso: O Poder das Funções em Kotlin
-Pasta no repositório: []()
+Pasta no repositório: [src/main/kotlin/poderFuncoes](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin/poderFuncoes)
 
 | Seção  | Aula | Arquivo |
 | ------------- | ------------- | ------------- |
-| [Funções de Escopo]() | Let | []() |
-| [Funções de Escopo]() | Run | []() |
-| [Funções de Escopo]() | With | []() |
-| [Funções de Escopo]() | Apply | []() |
-| [Funções de Escopo]() | Also | []() |
+| [Funções de Escopo](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin/poderFuncoes/funcoesDeEscopo) | Let | [src/main/kotlin/poderFuncoes/funcoesDeEscopo/let.kt](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/blob/main/src/main/kotlin/poderFuncoes/funcoesDeEscopo/let.kt) |
+| [Funções de Escopo](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin/poderFuncoes/funcoesDeEscopo) | Run | []() |
+| [Funções de Escopo](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin/poderFuncoes/funcoesDeEscopo) | With | []() |
+| [Funções de Escopo](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin/poderFuncoes/funcoesDeEscopo) | Apply | []() |
+| [Funções de Escopo](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin/poderFuncoes/funcoesDeEscopo) | Also | []() |
 | [Tipos de Funções]() | Infix Functions | []() |
 | [Tipos de Funções]() | Operator Functions | []() |
 | [Tipos de Funções]() | Higher Order Functions Parameters | []() |
