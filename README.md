@@ -95,7 +95,7 @@ Pasta no repositório: [src/main/kotlin/poderFuncoes](https://github.com/jessica
 | Seção  | Aula | Arquivo |
 | ------------- | ------------- | ------------- |
 | [Funções de Escopo](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin/poderFuncoes/funcoesDeEscopo) | Let | [src/main/kotlin/poderFuncoes/funcoesDeEscopo/let.kt](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/blob/main/src/main/kotlin/poderFuncoes/funcoesDeEscopo/let.kt) |
-| [Funções de Escopo](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin/poderFuncoes/funcoesDeEscopo) | Run | []() |
+| [Funções de Escopo](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin/poderFuncoes/funcoesDeEscopo) | Run | [src/main/kotlin/poderFuncoes/funcoesDeEscopo/run.kt](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/blob/main/src/main/kotlin/poderFuncoes/funcoesDeEscopo/run.kt) |
 | [Funções de Escopo](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin/poderFuncoes/funcoesDeEscopo) | With | []() |
 | [Funções de Escopo](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin/poderFuncoes/funcoesDeEscopo) | Apply | []() |
 | [Funções de Escopo](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin/poderFuncoes/funcoesDeEscopo) | Also | []() |
