@@ -7,3 +7,15 @@ S
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 c
 3src/main/kotlin/poderFuncoes/funcoesDeEscopo/let.kt,f\b\fb39510d62cc9f826c1eecccc66787e976ac7b2f
+c
+3src/main/kotlin/poderFuncoes/funcoesDeEscopo/run.kt,9\d\9d778868f9aea113a24800eadbe42b96c891f09b
+d
+4src/main/kotlin/poderFuncoes/funcoesDeEscopo/with.kt,8\d\8d216f58ca8364713d8457a4bae3111f0061b2ef
+e
+5src/main/kotlin/poderFuncoes/funcoesDeEscopo/apply.kt,8\d\8d0b209c1c4181056bf30ef4acd25f51dee23a1a
+d
+4src/main/kotlin/poderFuncoes/funcoesDeEscopo/also.kt,2\b\2bc50a0015507cc045f10a02f7d2f68592c0e870
+o
+?src/main/kotlin/controleDeFluxoEColecoes/colecoes/listasList.kt,9\1\913d00950f0feb3d67f46ab5efa4d8adaf86022c
+m
+=src/main/kotlin/poderFuncoes/tiposDeFuncoes/infixFunctions.kt,1\d\1d914227d3bc978e055c37bcfebf2937570e1938
