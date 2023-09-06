@@ -99,14 +99,14 @@ Pasta no repositório: [src/main/kotlin/poderFuncoes](https://github.com/jessica
 | [Funções de Escopo](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin/poderFuncoes/funcoesDeEscopo) | With | [src/main/kotlin/poderFuncoes/funcoesDeEscopo/with.kt](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/blob/main/src/main/kotlin/poderFuncoes/funcoesDeEscopo/with.kt) |
 | [Funções de Escopo](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin/poderFuncoes/funcoesDeEscopo) | Apply | [src/main/kotlin/poderFuncoes/funcoesDeEscopo/apply.kt](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/blob/main/src/main/kotlin/poderFuncoes/funcoesDeEscopo/apply.kt) |
 | [Funções de Escopo](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin/poderFuncoes/funcoesDeEscopo) | Also | [src/main/kotlin/poderFuncoes/funcoesDeEscopo/also.kt](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/blob/main/src/main/kotlin/poderFuncoes/funcoesDeEscopo/also.kt) |
-| [Tipos de Funções]() | Infix Functions | []() |
-| [Tipos de Funções]() | Operator Functions | []() |
-| [Tipos de Funções]() | Higher Order Functions Parameters | []() |
-| [Tipos de Funções]() | Higher Order Functions Returning | []() |
-| [Tipos de Funções]() | Lambda Functions | []() |
-| [Tipos de Funções]() | Extension Functions e Properties | []() |
-| [Tipos de Funções]() | Extension Functions Generics | []() |
-| [Tipos de Funções]() | Suspend Functions | []() |
+| [Tipos de Funções](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin/poderFuncoes/tiposDeFuncoes) | Infix Functions | [src/main/kotlin/poderFuncoes/tiposDeFuncoes/infixFunctions.kt](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/blob/main/src/main/kotlin/poderFuncoes/tiposDeFuncoes/infixFunctions.kt) |
+| [Tipos de Funções](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin/poderFuncoes/tiposDeFuncoes) | Operator Functions | []() |
+| [Tipos de Funções](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin/poderFuncoes/tiposDeFuncoes) | Higher Order Functions Parameters | []() |
+| [Tipos de Funções](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin/poderFuncoes/tiposDeFuncoes) | Higher Order Functions Returning | []() |
+| [Tipos de Funções](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin/poderFuncoes/tiposDeFuncoes) | Lambda Functions | []() |
+| [Tipos de Funções](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin/poderFuncoes/tiposDeFuncoes) | Extension Functions e Properties | []() |
+| [Tipos de Funções](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin/poderFuncoes/tiposDeFuncoes) | Extension Functions Generics | []() |
+| [Tipos de Funções](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin/poderFuncoes/tiposDeFuncoes) | Suspend Functions | []() |
 
 <br>
 
