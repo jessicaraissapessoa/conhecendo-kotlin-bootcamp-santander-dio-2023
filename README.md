@@ -84,11 +84,6 @@ Pasta no repositório: [src/main/kotlin/orientacaoAObjetosETiposDeClasses](https
 
 <br>
 
-> [!NOTE]
-> Demais cursos do módulo (cursos a seguir) serão linkados à medida que forem feitos
-
-<br>
-
 ### Curso: O Poder das Funções em Kotlin
 Pasta no repositório: [src/main/kotlin/poderFuncoes](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin/poderFuncoes)
 
@@ -107,6 +102,11 @@ Pasta no repositório: [src/main/kotlin/poderFuncoes](https://github.com/jessica
 | [Tipos de Funções](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin/poderFuncoes/tiposDeFuncoes) | Extension Functions e Properties | [src/main/kotlin/poderFuncoes/tiposDeFuncoes/extensionFunctionsEProperties.kt](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/blob/main/src/main/kotlin/poderFuncoes/tiposDeFuncoes/extensionFunctionsEProperties.kt)                                                                                                                                        |
 | [Tipos de Funções](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin/poderFuncoes/tiposDeFuncoes) | Extension Functions Generics | [src/main/kotlin/poderFuncoes/tiposDeFuncoes/extensionFunctionsGenerics.kt](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/blob/main/src/main/kotlin/poderFuncoes/tiposDeFuncoes/extensionFunctionsGenerics.kt)                                                                                                                                              |
 | [Tipos de Funções](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin/poderFuncoes/tiposDeFuncoes) | Suspend Functions | Acessar arquivo DIO: [6_funcoes_avancadas/6_suspend_functions/exemplo1.kt6_funcoes_avancadas/6_suspend_functions/exemplo1.kt](https://github.com/digitalinnovationone/aprenda-kotlin-com-exemplos/blob/main/6_funcoes_avancadas/6_suspend_functions/exemplo1.kt)                                                                                                                                                                                                                                                                                                                                                                          |
+
+<br>
+
+> [!NOTE]
+> Curso seguinte em processo de construção. Arquivos sendo gradativamente adicionados
 
 <br>
 
