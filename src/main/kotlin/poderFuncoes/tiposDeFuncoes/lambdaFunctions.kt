@@ -1,4 +1,4 @@
-package controleDeFluxoEColecoes.colecoes
+package poderFuncoes.tiposDeFuncoes
 
 fun main() {
 
