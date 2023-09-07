@@ -19,3 +19,11 @@ o
 ?src/main/kotlin/controleDeFluxoEColecoes/colecoes/listasList.kt,9\1\913d00950f0feb3d67f46ab5efa4d8adaf86022c
 m
 =src/main/kotlin/poderFuncoes/tiposDeFuncoes/infixFunctions.kt,1\d\1d914227d3bc978e055c37bcfebf2937570e1938
+p
+@src/main/kotlin/poderFuncoes/tiposDeFuncoes/operatorFunctions.kt,1\c\1c860c4a2c77bccc9382e465e10be72273d19b73
+}
+Msrc/main/kotlin/poderFuncoes/tiposDeFuncoes/higherOrderFunctionsParameters.kt,e\5\e59676b1761ce484ff45df7b6d882d884968f9dd
+|
+Lsrc/main/kotlin/poderFuncoes/tiposDeFuncoes/higherOrderFunctionsReturning.kt,c\7\c74c2ce0f5beccd3bfec7b8225f4c7c8f719edb6
+t
+Dsrc/main/kotlin/controleDeFluxoEColecoes/colecoes/lambdaFunctions.kt,f\d\fd24b3623e380a79df0fbfa4b518ffec651d9d22
