@@ -1,4 +1,4 @@
-package controleDeFluxoEColecoes.colecoes
+package poderFuncoes.tiposDeFuncoes
 
 
 data class Item (val name: String, val price: Float) //Item tem nome e preço
