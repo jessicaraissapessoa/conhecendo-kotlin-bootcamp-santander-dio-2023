@@ -113,12 +113,13 @@ Pasta no repositório: [src/main/kotlin/poderFuncoes](https://github.com/jessica
 ### Curso: Tratamento de Exceções em Kotlin
 Pasta no repositório: []()
 
-| Seção  | Aula | Arquivo |
-| ------------- | ------------- | ------------- |
-| --- | Manipulando Minhas Primeiras Exceções | []() |
-| --- | Try É Uma Expression | []() |
-| --- | Checked Exceptions... Não Aqui! | []() |
-| --- | Exceções Customizadas e Idiomáticas | []() |
+| Seção  | Aula                                             | Arquivo |
+| ------------- |--------------------------------------------------| ------------- |
+| --- | Introdução e Objetivos                           | [src/main/kotlin/tratamentoExcecoes/introducaoEObjetivosExcecoes.kt](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/blob/main/src/main/kotlin/tratamentoExcecoes/introducaoEObjetivosExcecoes.kt) |
+| --- | Manipulando Minhas Primeiras Exceções            | []() |
+| --- | Try É Uma Expression                             | []() |
+| --- | Checked Exceptions... Não Aqui!                  | []() |
+| --- | Exceções Customizadas e Idiomáticas              | []() |
 | --- | Throw É Uma Expression, Tipo Nothing e Conclusão | []() |
 
 
