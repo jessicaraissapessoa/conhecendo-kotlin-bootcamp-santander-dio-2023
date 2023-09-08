@@ -25,5 +25,11 @@ p
 Msrc/main/kotlin/poderFuncoes/tiposDeFuncoes/higherOrderFunctionsParameters.kt,e\5\e59676b1761ce484ff45df7b6d882d884968f9dd
 |
 Lsrc/main/kotlin/poderFuncoes/tiposDeFuncoes/higherOrderFunctionsReturning.kt,c\7\c74c2ce0f5beccd3bfec7b8225f4c7c8f719edb6
-t
-Dsrc/main/kotlin/controleDeFluxoEColecoes/colecoes/lambdaFunctions.kt,f\d\fd24b3623e380a79df0fbfa4b518ffec651d9d22
+y
+Isrc/main/kotlin/poderFuncoes/tiposDeFuncoes/extensionFunctionsGenerics.kt,3\f\3f515880b0cecfd8908cc3c765b4a1df073de41d
+|
+Lsrc/main/kotlin/poderFuncoes/tiposDeFuncoes/extensionFunctionsEProperties.kt,9\2\921360e0c5cfecfaab0e17ce787610920e7391c8
+n
+>src/main/kotlin/poderFuncoes/tiposDeFuncoes/lambdaFunctions.kt,5\0\5065e5e6787a1dbd985e47ec3f91558e6465478b
+j
+:src/main/kotlin/tratamentoExcecoes/introducaoEObjetivos.kt,2\a\2aad9a55c1c4a9ebf5fbb2f841a9c9aa1fddb2d1
