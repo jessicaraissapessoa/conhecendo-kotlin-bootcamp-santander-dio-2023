@@ -35,3 +35,5 @@ r
 Bsrc/main/kotlin/tratamentoExcecoes/introducaoEObjetivosExcecoes.kt,e\1\e110db014a25ba2577704130ab3306f81304e06e
 p
 @src/main/kotlin/tratamentoExcecoes/manipulandoPrimeiraExcecao.kt,7\1\7156ba6ecbeea4161074f5faa575a177f40d37ec
+c
+3src/main/kotlin/tratamentoExcecoes/tryExpression.kt,b\5\b56b518ab12a1cb3ea3d5237f79b8c95d2a8d909
