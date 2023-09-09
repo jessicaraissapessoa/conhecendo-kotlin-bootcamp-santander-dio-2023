@@ -117,7 +117,7 @@ Pasta no repositório: [src/main/kotlin/tratamentoExcecoes](https://github.com/j
 | ------------- |--------------------------------------------------| ------------- |
 | --- | Introdução e Objetivos                           | [src/main/kotlin/tratamentoExcecoes/introducaoEObjetivosExcecoes.kt](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/blob/main/src/main/kotlin/tratamentoExcecoes/introducaoEObjetivosExcecoes.kt) |
 | --- | Manipulando Minhas Primeiras Exceções            | [src/main/kotlin/tratamentoExcecoes/manipulandoPrimeiraExcecao.kt](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/blob/main/src/main/kotlin/tratamentoExcecoes/manipulandoPrimeiraExcecao.kt) |
-| --- | Try É Uma Expression                             | []() |
+| --- | Try É Uma Expression                             | [src/main/kotlin/tratamentoExcecoes/tryExpression.kt](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/blob/main/src/main/kotlin/tratamentoExcecoes/tryExpression.kt) |
 | --- | Checked Exceptions... Não Aqui!                  | []() |
 | --- | Exceções Customizadas e Idiomáticas              | []() |
 | --- | Throw É Uma Expression, Tipo Nothing e Conclusão | []() |
