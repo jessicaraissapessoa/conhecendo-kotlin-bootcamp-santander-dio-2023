@@ -31,5 +31,7 @@ Isrc/main/kotlin/poderFuncoes/tiposDeFuncoes/extensionFunctionsGenerics.kt,3\f\
 Lsrc/main/kotlin/poderFuncoes/tiposDeFuncoes/extensionFunctionsEProperties.kt,9\2\921360e0c5cfecfaab0e17ce787610920e7391c8
 n
 >src/main/kotlin/poderFuncoes/tiposDeFuncoes/lambdaFunctions.kt,5\0\5065e5e6787a1dbd985e47ec3f91558e6465478b
-j
-:src/main/kotlin/tratamentoExcecoes/introducaoEObjetivos.kt,2\a\2aad9a55c1c4a9ebf5fbb2f841a9c9aa1fddb2d1
+r
+Bsrc/main/kotlin/tratamentoExcecoes/introducaoEObjetivosExcecoes.kt,e\1\e110db014a25ba2577704130ab3306f81304e06e
+p
+@src/main/kotlin/tratamentoExcecoes/manipulandoPrimeiraExcecao.kt,7\1\7156ba6ecbeea4161074f5faa575a177f40d37ec
