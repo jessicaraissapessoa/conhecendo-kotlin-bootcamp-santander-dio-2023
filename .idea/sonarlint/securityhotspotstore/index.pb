@@ -37,3 +37,7 @@ p
 @src/main/kotlin/tratamentoExcecoes/manipulandoPrimeiraExcecao.kt,7\1\7156ba6ecbeea4161074f5faa575a177f40d37ec
 c
 3src/main/kotlin/tratamentoExcecoes/tryExpression.kt,b\5\b56b518ab12a1cb3ea3d5237f79b8c95d2a8d909
+v
+Fsrc/main/kotlin/tratamentoExcecoes/excecoesCustomizadasEIdiomaticas.kt,9\5\9543181f86a3adbdd1ba82ac7cd86903058f3567
+q
+Asrc/main/kotlin/tratamentoExcecoes/throwExpressionETipoNothing.kt,c\2\c25eb97b02b45ea9ea2fa4ef218b66dc066e854a
