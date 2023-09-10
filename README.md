@@ -105,11 +105,6 @@ Pasta no repositório: [src/main/kotlin/poderFuncoes](https://github.com/jessica
 
 <br>
 
-> [!NOTE]
-> Curso seguinte em processo de construção. Arquivos sendo gradativamente adicionados
-
-<br>
-
 ### Curso: Tratamento de Exceções em Kotlin
 Pasta no repositório: [src/main/kotlin/tratamentoExcecoes](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin/tratamentoExcecoes)
 
