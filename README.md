@@ -122,7 +122,7 @@ Pasta no repositório: [src/main/kotlin/tratamentoExcecoes](https://github.com/j
 
 <br>
 
-[desafio-projeto-aprenda-kotlin-com-exemplos-lab-bootcamp-santander-dio-2023](https://github.com/jessicaraissapessoa/desafio-projeto-aprenda-kotlin-com-exemplos-lab-bootcamp-santander-dio-2023)
+Acesse repositório do meu projeto: [desafio-projeto-aprenda-kotlin-com-exemplos-lab-bootcamp-santander-dio-2023](https://github.com/jessicaraissapessoa/desafio-projeto-aprenda-kotlin-com-exemplos-lab-bootcamp-santander-dio-2023)
 
 <!-- 
 
