@@ -17,8 +17,7 @@
 * O módulo em questão, no total, apresenta 6 cursos e 1 desafio:
   <img src="https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/blob/main/imagens/cursos.png">
 > [!IMPORTANT]
-> * O primeiro curso é teórico (portanto, não está no repositório) e o desafio está em outro repositório
-> * O repositório do desafio será linkado futuramente, quando for feito
+> O primeiro curso é teórico (portanto, não está no repositório) e o desafio está em outro repositório ([desafio-projeto-aprenda-kotlin-com-exemplos-lab-bootcamp-santander-dio-2023](https://github.com/jessicaraissapessoa/desafio-projeto-aprenda-kotlin-com-exemplos-lab-bootcamp-santander-dio-2023))
 * Os códigos, em si, estão na pasta [src/main/kotlin](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/tree/main/src/main/kotlin) do repositório
 * Segue, no próximo tópico, a forma de organização desse repositório em relação aos conteúdos do módulo.
 
@@ -117,6 +116,13 @@ Pasta no repositório: [src/main/kotlin/tratamentoExcecoes](https://github.com/j
 | ---   | Exceções Customizadas e Idiomáticas              | [src/main/kotlin/tratamentoExcecoes/excecoesCustomizadasEIdiomaticas.kt](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/blob/main/src/main/kotlin/tratamentoExcecoes/excecoesCustomizadasEIdiomaticas.kt) |
 | ---   | Throw É Uma Expression, Tipo Nothing e Conclusão | [src/main/kotlin/tratamentoExcecoes/throwExpressionETipoNothing.kt](https://github.com/jessicaraissapessoa/conhecendo-kotlin-bootcamp-santander-dio-2023/blob/main/src/main/kotlin/tratamentoExcecoes/throwExpressionETipoNothing.kt)           |
 
+<br>
+
+### Curso: Tratamento de Exceções em Kotlin
+
+<br>
+
+[desafio-projeto-aprenda-kotlin-com-exemplos-lab-bootcamp-santander-dio-2023](https://github.com/jessicaraissapessoa/desafio-projeto-aprenda-kotlin-com-exemplos-lab-bootcamp-santander-dio-2023)
 
 <!-- 
 
