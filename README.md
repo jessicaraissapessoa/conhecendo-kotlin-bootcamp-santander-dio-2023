@@ -118,7 +118,7 @@ Pasta no repositório: [src/main/kotlin/tratamentoExcecoes](https://github.com/j
 
 <br>
 
-### Curso: Tratamento de Exceções em Kotlin
+### Desafio de projeto: Abstraindo Formações da DIO Usando Orientação a Objetos com Kotlin
 
 <br>
 
